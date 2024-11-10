@@ -1,0 +1,3 @@
+[submodule "CommonTool"]
+	path = CommonTool
+	url = https://github.com/TianYF2020/CommonTool.git
